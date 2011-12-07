@@ -10,7 +10,7 @@ use ExtUtils::MakeMaker 6.30;
 
 my %WriteMakefileArgs = (
   "ABSTRACT" => "Pull author contribution counts for github repos",
-  "AUTHOR" => "AHB <canardee.io\@gmx.com>",
+  "AUTHOR" => "justin.d.hunter\@gmail.com",
   "BUILD_REQUIRES" => {
     "Test::More" => 0
   },
@@ -31,7 +31,7 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.1.0",
+  "VERSION" => "0.2.0",
   "test" => {
     "TESTS" => "t/*.t"
   }

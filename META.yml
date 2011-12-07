@@ -1,7 +1,7 @@
 ---
 abstract: 'Pull author contribution counts for github repos'
 author:
-  - 'AHB <canardee.io@gmx.com>'
+  - justin.d.hunter@gmail.com
 build_requires:
   Test::More: 0
 configure_requires:
@@ -22,4 +22,4 @@ requires:
   URI: 0
   strict: 0
   warnings: 0
-version: 0.1.0
+version: 0.2.0
